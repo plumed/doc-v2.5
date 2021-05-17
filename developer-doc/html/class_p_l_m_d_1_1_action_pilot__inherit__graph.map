@@ -1,0 +1,50 @@
+<map id="PLMD::ActionPilot" name="PLMD::ActionPilot">
+<area shape="rect" id="node3" href="$class_p_l_m_d_1_1adjmat_1_1_dump_graph.html" title="Provides the keyword DUMPGRAPH &#160;" alt="" coords="357,275,541,302"/>
+<area shape="rect" id="node4" href="$class_p_l_m_d_1_1adjmat_1_1_output_cluster.html" title="Provides the keyword OUTPUT_CLUSTER &#160;" alt="" coords="352,326,547,353"/>
+<area shape="rect" id="node5" href="$class_p_l_m_d_1_1analysis_1_1_analysis_base.html" title=" &#160;This is the abstract base class to use for implementing new methods for analyzing the trajectory..." alt="" coords="348,377,551,403"/>
+<area shape="rect" id="node16" href="$class_p_l_m_d_1_1analysis_1_1_committor.html" title="Provides the keyword COMMITTOR &#160;" alt="" coords="357,745,541,771"/>
+<area shape="rect" id="node17" href="$class_p_l_m_d_1_1bias_1_1_bias.html" title=" &#160;This is the abstract base class to use for implementing new simulation biases, within it there is i..." alt="" coords="387,795,512,822"/>
+<area shape="rect" id="node29" href="$class_p_l_m_d_1_1generic_1_1_debug.html" title="Provides the keyword DEBUG &#160;" alt="" coords="372,846,527,873"/>
+<area shape="rect" id="node30" href="$class_p_l_m_d_1_1generic_1_1_dump_atoms.html" title="Provides the keyword DUMPATOMS &#160;" alt="" coords="354,897,545,923"/>
+<area shape="rect" id="node31" href="$class_p_l_m_d_1_1generic_1_1_dump_derivatives.html" title="Provides the keyword DUMPDERIVATIVES &#160;" alt="" coords="340,947,559,974"/>
+<area shape="rect" id="node32" href="$class_p_l_m_d_1_1generic_1_1_dump_forces.html" title="Provides the keyword DUMPFORCES &#160;" alt="" coords="353,998,545,1025"/>
+<area shape="rect" id="node33" href="$class_p_l_m_d_1_1generic_1_1_dump_mass_charge.html" title="Provides the keyword DUMPMASSCHARGE &#160;" alt="" coords="336,1049,563,1075"/>
+<area shape="rect" id="node34" href="$class_p_l_m_d_1_1generic_1_1_dump_projections.html" title="Provides the keyword DUMPPROJECTIONS &#160;" alt="" coords="341,1099,558,1126"/>
+<area shape="rect" id="node35" href="$class_p_l_m_d_1_1generic_1_1_effective_energy_drift.html" title="Provides the keyword EFFECTIVE_ENERGY_DRIFT &#160;" alt="" coords="365,1151,534,1192"/>
+<area shape="rect" id="node36" href="$class_p_l_m_d_1_1generic_1_1_fit_to_template.html" title="Provides the keyword FIT_TO_TEMPLATE &#160;" alt="" coords="349,1217,550,1243"/>
+<area shape="rect" id="node37" href="$class_p_l_m_d_1_1generic_1_1_flush.html" title="Provides the keyword FLUSH &#160;" alt="" coords="375,1267,524,1294"/>
+<area shape="rect" id="node38" href="$class_p_l_m_d_1_1generic_1_1_plumed.html" title="Provides the keyword PLUMED &#160;" alt="" coords="369,1318,530,1345"/>
+<area shape="rect" id="node39" href="$class_p_l_m_d_1_1generic_1_1_print.html" title="Provides the keyword PRINT &#160;" alt="" coords="377,1369,521,1395"/>
+<area shape="rect" id="node40" href="$class_p_l_m_d_1_1generic_1_1_read.html" title="Provides the keyword READ &#160;" alt="" coords="375,1419,523,1446"/>
+<area shape="rect" id="node41" href="$class_p_l_m_d_1_1generic_1_1_reset_cell.html" title="Provides the keyword RESET_CELL &#160;" alt="" coords="362,1470,537,1497"/>
+<area shape="rect" id="node42" href="$class_p_l_m_d_1_1generic_1_1_update_if.html" title="Provides the keyword UPDATE_IF &#160;" alt="" coords="366,1521,533,1547"/>
+<area shape="rect" id="node43" href="$class_p_l_m_d_1_1generic_1_1_whole_molecules.html" title="Provides the keyword WHOLEMOLECULES &#160;" alt="" coords="343,1571,556,1598"/>
+<area shape="rect" id="node44" href="$class_p_l_m_d_1_1generic_1_1_wrap_around.html" title="Provides the keyword WRAPAROUND &#160;" alt="" coords="355,1622,544,1649"/>
+<area shape="rect" id="node45" href="$class_p_l_m_d_1_1gridtools_1_1_grid_printing_base.html" title="PLMD::gridtools::GridPrintingBase" alt="" coords="338,1673,561,1699"/>
+<area shape="rect" id="node46" href="$class_p_l_m_d_1_1manyrestraints_1_1_many_restraints_base.html" title="PLMD::manyrestraints\l::ManyRestraintsBase" alt="" coords="373,1724,526,1765"/>
+<area shape="rect" id="node47" href="$class_p_l_m_d_1_1multicolvar_1_1_dump_multi_colvar.html" title="Provides the keyword DUMPMULTICOLVAR &#160;" alt="" coords="380,1789,519,1831"/>
+<area shape="rect" id="node48" href="$class_p_l_m_d_1_1ves_1_1_optimizer.html" title="PLMD::ves::Optimizer" alt="" coords="373,1855,525,1882"/>
+<area shape="rect" id="node49" href="$class_p_l_m_d_1_1vesselbase_1_1_action_with_averaging.html" title=" &#160;This abstract base class should be used if you are writing some method that calculates an &quot;average&quot;..." alt="" coords="360,1907,539,1948"/>
+<area shape="rect" id="node2" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions. " alt="" coords="5,1242,109,1269"/>
+<area shape="rect" id="node6" href="$class_p_l_m_d_1_1analysis_1_1_euclidean_dissimilarity_matrix.html" title="Provides the keyword EUCLIDEAN_DISSIMILARITIES &#160;" alt="" coords="640,5,820,47"/>
+<area shape="rect" id="node7" href="$class_p_l_m_d_1_1analysis_1_1_landmark_selection_base.html" title="PLMD::analysis::Landmark\lSelectionBase" alt="" coords="640,71,820,112"/>
+<area shape="rect" id="node8" href="$class_p_l_m_d_1_1analysis_1_1_output_colvar_file.html" title="Provides the keyword OUTPUT_ANALYSIS_DATA_TO_COLVAR &#160;" alt="" coords="619,137,841,163"/>
+<area shape="rect" id="node9" href="$class_p_l_m_d_1_1analysis_1_1_output_p_d_b_file.html" title="Provides the keyword OUTPUT_ANALYSIS_DATA_TO_PDB &#160;" alt="" coords="625,187,835,214"/>
+<area shape="rect" id="node10" href="$class_p_l_m_d_1_1analysis_1_1_print_dissimilarity_matrix.html" title="Provides the keyword PRINT_DISSIMILARITY_MATRIX &#160;" alt="" coords="619,239,841,280"/>
+<area shape="rect" id="node11" href="$class_p_l_m_d_1_1analysis_1_1_read_analysis_frames.html" title="Provides the keyword COLLECT_FRAMES &#160;" alt="" coords="628,304,832,345"/>
+<area shape="rect" id="node12" href="$class_p_l_m_d_1_1analysis_1_1_read_dissimilarity_matrix.html" title="Provides the keyword READ_DISSIMILARITY_MATRIX &#160;" alt="" coords="617,369,843,411"/>
+<area shape="rect" id="node13" href="$class_p_l_m_d_1_1dimred_1_1_dimensionality_reduction_base.html" title="PLMD::dimred::Dimensionality\lReductionBase" alt="" coords="630,435,830,476"/>
+<area shape="rect" id="node14" href="$class_p_l_m_d_1_1dimred_1_1_output_p_c_a_projection.html" title="Provides the keyword OUTPUT_PCA_PROJECTION &#160;" alt="" coords="611,501,849,527"/>
+<area shape="rect" id="node15" href="$class_p_l_m_d_1_1dimred_1_1_project_non_landmark_points.html" title="Provides the keyword PROJECT_ALL_ANALYSIS_DATA &#160;" alt="" coords="641,552,819,593"/>
+<area shape="rect" id="node18" href="$class_p_l_m_d_1_1bias_1_1_a_b_m_d.html" title="Provides the keyword ABMD &#160;" alt="" coords="661,618,799,645"/>
+<area shape="rect" id="node19" href="$class_p_l_m_d_1_1bias_1_1_bias_value.html" title="Provides the keyword BIASVALUE &#160;" alt="" coords="651,669,809,695"/>
+<area shape="rect" id="node20" href="$class_p_l_m_d_1_1bias_1_1_extended_lagrangian.html" title="Provides the keyword EXTENDED_LAGRANGIAN &#160;" alt="" coords="621,719,839,746"/>
+<area shape="rect" id="node21" href="$class_p_l_m_d_1_1bias_1_1_external.html" title="Provides the keyword EXTERNAL &#160;" alt="" coords="657,770,803,797"/>
+<area shape="rect" id="node22" href="$class_p_l_m_d_1_1bias_1_1_l_walls.html" title="Provides the keyword LOWER_WALLS &#160;" alt="" coords="661,821,799,847"/>
+<area shape="rect" id="node23" href="$class_p_l_m_d_1_1bias_1_1_max_ent.html" title="Provides the keyword MAXENT &#160;" alt="" coords="658,871,802,898"/>
+<area shape="rect" id="node24" href="$class_p_l_m_d_1_1bias_1_1_meta_d.html" title="Provides the keyword METAD &#160;" alt="" coords="661,922,799,949"/>
+<area shape="rect" id="node25" href="$class_p_l_m_d_1_1bias_1_1_moving_restraint.html" title="Provides the keyword MOVINGRESTRAINT &#160;" alt="" coords="633,973,827,999"/>
+<area shape="rect" id="node26" href="$class_p_l_m_d_1_1bias_1_1_p_b_meta_d.html" title="Provides the keyword PBMETAD &#160;" alt="" coords="652,1023,808,1050"/>
+<area shape="rect" id="node27" href="$class_p_l_m_d_1_1bias_1_1_restraint.html" title="Provides the keyword RESTRAINT &#160;" alt="" coords="654,1074,806,1101"/>
+<area shape="rect" id="node28" href="$class_p_l_m_d_1_1bias_1_1_u_walls.html" title="Provides the keyword UPPER_WALLS &#160;" alt="" coords="659,1125,801,1151"/>
+</map>
